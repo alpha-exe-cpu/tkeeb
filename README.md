@@ -34,6 +34,10 @@ The layout is a standard TKL-style matrix, and I added an EC11 Rotary Encoder fo
 <img width="1626" height="465" alt="Screenshot 2025-12-29 164942" src="https://github.com/user-attachments/assets/80e21a73-8bdf-438a-958e-bfc7287ba299" />
 
 ### 3D Render (Bottom Base)
+<img width="1322" height="450" alt="Screenshot 2025-12-29 164505" src="https://github.com/user-attachments/assets/5e842977-10d4-4de0-9608-23ba8ba1c998" />
+
+### 3D Render (Knob)
+<img width="357" height="338" alt="Screenshot 2025-12-29 165023" src="https://github.com/user-attachments/assets/e3e8520e-a30e-4425-b4bb-43c4b9fb004c" />
 
 
 ## Firmware
